@@ -11,8 +11,8 @@
           ],
           "name": "Astronautas",
           "description": "Descubra quantos astronautas estão no espaço!",
-          "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
-          "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
+          "smallIconUri": "https://astronautas-skill.s3-sa-east-1.amazonaws.com/astronautas-icon.png",
+          "largeIconUri": "https://astronautas-skill.s3-sa-east-1.amazonaws.com/astronautas-logo.png"
         }
       },
       "isAvailableWorldwide": false,
